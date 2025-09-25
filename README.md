@@ -9,6 +9,6 @@ Soundness Layer is a decentralized verification layer that provides low latency,
 
 > ⚠️ **Warning**: This is a testnet implementation. Do not use in production. The protocol is still under development and may contain bugs or security vulnerabilities. We are gradually rolling out features and open sourcing components as we progress through our development roadmap.
 
-## Testnet Registration
+## Testnet Registrations 
 
 We are currently preparing for testnet launch and invite early participants to register their keys. For detailed instructions on key generation and registration, please refer to the [`soundness-cli`](/soundness-cli) documentation.
